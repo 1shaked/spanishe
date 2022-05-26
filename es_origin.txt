@@ -1,0 +1,87 @@
+[0]: ROSANA: Marcos, ¿te he presentado a mi prima, Laura?
+[1]: MARCOS: No, no creo. ¿Quién es ella?
+[2]: ROSANA: Es la hija de mi tío Victor, el hermano de mi mamá.
+[3]: MARCOS: O sea, ¿ustedes son primas hermanas?
+[4]: ROSANA: Claro. Su papá y mi mamá son hermanos. Déjame presentarte.
+[5]: ROSANA: Marcos, have I introduced ya' to my cousin, Laura?
+[6]: MARCOS: No, no I don't believe so. Who is she?
+[7]: ROSANA: She's the daughter of my Uncle Victor, my mom's brother.
+[8]: MARCOS: So then, you guys are first cousins?
+[9]: ROSANA: Right. Her dad and my mom are siblings. Let me introduce ya'.
+[10]: POST CONVERSATION BANTER
+[11]: Allan: That’s a classic situation, not just meeting people, but being introduced to relatives.
+[12]: Lizzie: Sí, la familia es muy importante en la cultura latina.
+[13]: Allan: Sin duda. Lizzie, ¿tienes una familia grande o chica?
+[14]: Lizzie: Pequeñita. Solo vivo con mi mamá.
+[15]: Allan: It’s pretty small, Lizzie. A wife, two kids, a dog, a hamster, and of course, the in-laws.
+[16]: Lizzie: A hamster?
+[17]: Allan: Now that we’ve gone through the conversation, what do you say we run through some of the vocabulary?
+[18]: Lizzie: Sounds like a good idea.
+[19]: Allan: So let’s begin with…
+[20]: VOCAB LIST
+[21]: Lizzie: presentar
+[22]: Allan: To introduce.
+[23]: Lizzie: presentar, presentar
+[24]: Allan: Next we have…
+[25]: Lizzie: presentado
+[26]: Allan: Introduced.
+[27]: Lizzie: presentado, presentado
+[28]: Allan: Next we have…
+[29]: Lizzie: primo, prima
+[30]: Allan: Cousin.
+[31]: Lizzie: primo, prima. primo, prima
+[32]: Allan: Next we’ll hear…
+[33]: Lizzie: hijo, hija
+[34]: Allan: Son, daughter, children.
+[35]: Lizzie: hijo, hija. hijo, hija
+[36]: Allan: Now let’s hear…
+[37]: Lizzie: tío, tía
+[38]: Allan: Uncle, aunt.
+[39]: Lizzie: tío, tía. tío, tía
+[40]: Allan: And finally…
+[41]: Lizzie: hermano, hermana
+[42]: Allan: Brother, sister, siblings.
+[43]: Lizzie: hermano, hermana, hermano, hermana
+[44]: Allan: And now, guys, a quick tip to keep your Spanish nice and crisp. The word presentado.
+[45]: Lizzie: presentado
+[46]: Allan: In Spanish, you’ll find that many words end in ADO, A-D-O, and IDO, I-D-O, just like we see here in presentado.
+[47]: Lizzie: Or like hablado and comido.
+[48]: Allan: Exactly. Now, the thing is when we’re speaking quickly, it’s not uncommon to kind of drop that letter D in the ending and say presentao.
+[49]: VOCAB AND PHRASE USAGE
+[50]: Lizzie: presentao
+[51]: Allan: But it’s probably something you should get in the habit of hearing more than saying.
+[52]: Lizzie: Ahora estudiemos como se empleaban algunos de estos vocablos en la conversación de hoy.
+[53]: Allan: ¿Por dónde deseas empezar?
+[54]: Lizzie: Empecemos con el sustantivo hermano.
+[55]: Allan: Alright, and this noun can be either masculine, hermano, or feminine, hermana.
+[56]: Lizzie: Y como sustantivo masculino, ‘qué significa?
+[57]: Allan: As a masculine noun, it means “brother” in the singular, that is. In the plural it has two meanings.
+[58]: Lizzie: ¿Y cuáles son?
+[59]: Allan: Well, it can mean “brothers”, which should come as no surprise, but it can also mean siblings since in Spanish the masculine plural is preferred to make up for the lack of a neutral form. So when we’re talking about a group of males and females, we’ll use the masculine plural form.
+[60]: Lizzie: ¿Y el sustantivo femenino?
+[61]: Allan: That just means “sister” in the singular and “sisters” in the plural.
+[62]: Lizzie: Hermano, hermanos, hermana, hermanas.
+[63]: Allan: Lizzie, ¿Cómo se llama el hijo de tu tío?
+[64]: Lizzie: Se llama Pablo.
+[65]: Allan: ¿Enserio?
+[66]: Lizzie: Es mi primo.
+[67]: Allan: So the son of your uncle is your primo, your cousin. This is a great word. Aside from referring to someone in your family, it’s also used to refer to what we might call in English a family friend or extended family.
+[68]: Lizzie: Right. Like if you’re invited over to my house and my cousins meet you. They might start calling you primo to make you feel like you’re part of the family.
+[69]: Allan: Right. That’s so nice. And with this one, too, we can use it as a masculine or feminine noun, even though we’ll always translate it as “cousin”.
+[70]: Lizzie: Primo, primos, prima, primas.
+[71]: Allan: So, moving on, what’s another way to refer to the son of your uncle?
+[72]: Lizzie: es el hijo de mi tío.
+[73]: Allan: Hey, we’re on a roll. Another noun that can be either masculine or feminine. And this one, like hermano, has two different translations depending on the gender.
+[74]: Lizzie: La forma masculina hijo.
+[75]: Allan: So in the masculine singular this means “son”, and in the feminine, Lizzie?
+[76]: Lizzie: Hija.
+[77]: Allan: “Daughter”. But, again, when we’re talking about sons and daughters, we’re going to need to use the masculine plural form hijos, and this means “children”.
+[78]: Lizzie: Alright, last word.
+[79]: Allan: Let’s go for four in a row.
+[80]: Lizzie: ¡Cómo no!
+[81]: Allan: Tio y tia.
+[82]: Lizzie: Pues, no es nada más que “uncle” and “aunt”.
+[83]: Allan: And your tios. How do you say tios in English?
+[84]: Lizzie: I prefer not to answer. Can we talk about something else?
+[85]: Allan: Come on. No, it’s an unfair question. There’s no clean translation for the word tios. We have to describe it and say “aunts and uncles”.
+[86]: Lizzie: Prosigamos con la gramática. .
